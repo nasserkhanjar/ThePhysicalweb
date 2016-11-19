@@ -1,6 +1,6 @@
 # ThePhysicalweb
 
-##Intrduction:
+##Introduction:
 The Physical Web is an effort to extend the superpower of the web - the URL - to everyday physical objects. 
 Our idea is that you should be able to walk up to any “smart” physical object. 
 For example, a vending machine, a poster, a toy, a bus stop and finally a rental car. Afterwards, the user will interact with it. 
@@ -23,19 +23,13 @@ be embedded with a Bluetooth Low Energy (BLE) beacon, which is a low powered. ba
 bluetooth. Beacons that support the Eddystone protocol specification can broadcast URLs. Services on your device such as Google Chrome or Nearby noticication 
 can scan for and display these URLs after passing them through a proxy.
 
-<img src="https://s22.postimg.org/jgug2k1dd/a27100d1_2f10_45b2_aaad_c8ff4891c8bc.jpg" alt="1"/>
-<img src="http://www.twinsoft.se/images/beacon.png"alt="2"/>
-<img src="https://s17.postimg.org/6h118bd8f/1dde13bc_7fe0_4966_8e01_ee558a2a92a1.jpg"alt="3"/>
-<img src="https://s21.postimg.org/mjrta3uwn/33e299a6_5bc3_4808_a525_ba60878d364c.jpg"alt="4"/>
-<img src="https://s11.postimg.org/ck94x7epv/234f64a8_8390_472b_b092_83403eca4a21.jpg"alt="5"/>
-
 
 ##Open Design
 The Physical Web must be an open standard that everyone can use. This can’t be a product that is locked down by a single company. Like many web specifications, this is an open source design that is being released early so everyone can experiment and comment on it. There is much to discuss and add to this specification.
 
 
 
-##Contents
+##References
 
 https://google.github.io/physical-web/
 https://www.realmassive.com/blog/cre-on-the-physical-web/
